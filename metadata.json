@@ -1,6 +1,0 @@
-{
-  "name": "GMAHK Jemaat Salili",
-  "description": "Website Resmi Gereja Masehi Advent Hari Ketujuh (GMAHK) Jemaat Salili, Siau Tengah, Sitaro, Sulawesi Utara.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
