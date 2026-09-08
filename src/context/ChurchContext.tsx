@@ -575,6 +575,7 @@ const addArticle = async (art: Omit<Article, 'id'>): Promise<boolean> => {
       const updated = { ...pastoralContact, ...contact };
       await supabase.from('pastoral_contacts').upsert([updated]);
       setPastoralContact(updated);
+      await refreshData();
       return true;
     } catch (e) {
       console.warn('Update pastoral contact error:', e);
