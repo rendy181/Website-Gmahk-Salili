@@ -28,7 +28,7 @@ export const DEFAULT_PROFILE: ChurchProfile = {
   instagram_url: 'https://instagram.com/gmahksalili',
   tiktok_url: 'https://tiktok.com/@gmahksalili',
   history:
-    'GMAHK Jemaat Salili dirintis oleh para perintis pekabaran Tiga Malaikat di tanah Siau. Berada di Kecamatan Siau Tengah, jemaat ini bertumbuh dari persekutuan rumah tangga sederhana menjadi pusat peribadatan dan pelayanan rohani yang aktif membimbing generasi muda dan keluarga di Kepulauan Sitaro, Sulawesi Utara.',
+    'GMAHK Jemaat Salili dirintis oleh 5 keluarga mula-mula di Kampung Salili dan Kampung Beong yang awalnya beribadah berpindah-pindah tempat hingga menetap di Keluarga Sagune Tumariam sampai saat ini. Berada di Kecamatan Siau Tengah, jemaat ini bertumbuh dari persekutuan rumah tangga sederhana menjadi pusat peribadatan dan pelayanan rohani yang aktif membimbing generasi muda dan keluarga di Kepulauan Sitaro, Sulawesi Utara.',
   vision:
     'Menjadi jemaat yang berpusat pada Kristus, memuliakan Allah, dan memberitakan Injil Kekal kepada segala bangsa di Siau dan sekitarnya.',
   mission:
