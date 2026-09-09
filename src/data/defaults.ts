@@ -159,8 +159,8 @@ export const DEFAULT_BANK_ACCOUNTS: BankAccount[] = [
   {
     id: 1,
     nama_bank: 'Bank SulutGo (BSG)',
-    nomor_rekening: '01802110058471',
-    atas_nama: 'GMAHK Jemaat Salili',
+    nomor_rekening: '01302110060241',
+    atas_nama: 'GMAHK Jemaat Perkumpulan Salili',
     keterangan: 'Digunakan untuk Persembahan Sabat, Persepuluhan Kudus, dan Dana Pembangunan Fasilitas Ibadah.',
   },
 ];
