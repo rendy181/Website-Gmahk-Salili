@@ -62,7 +62,7 @@ export const HeroSection: React.FC = () => {
       <div className="relative max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 pt-24 pb-16 text-center text-white z-10 flex flex-col items-center">
         {/* Emblem & Location Badge */}
         <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-blue-900/60 border border-blue-400/30 text-blue-200 text-xs font-semibold uppercase tracking-wider backdrop-blur-md mb-6 shadow-sm">
-          <Sparkles className="w-3.5 h-3.5 text-amber-400" />
+          {/* Ikon bintang dihapus */}
           <span>{activeImage?.badgeText || 'Gereja Masehi Advent Hari Ketujuh'}</span>
           <span className="w-1 h-1 rounded-full bg-blue-300" />
           <span className="text-amber-300 font-bold">Perkumpulan Salili</span>
