@@ -65,7 +65,7 @@ export const HeroSection: React.FC = () => {
           <Sparkles className="w-3.5 h-3.5 text-amber-400" />
           <span>{activeImage?.badgeText || 'Gereja Masehi Advent Hari Ketujuh'}</span>
           <span className="w-1 h-1 rounded-full bg-blue-300" />
-          <span className="text-amber-300 font-bold">Jemaat Salili</span>
+          <span className="text-amber-300 font-bold">Perkumpulan Salili</span>
         </div>
 
         {/* Large Adventist Symbolic Logo */}
